@@ -6,7 +6,6 @@ class Test {
         return null;
     }
 }
-
 class Test2 {
     get Property() {
         var x = 1;
